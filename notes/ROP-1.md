@@ -7,6 +7,6 @@ I reviewed the following parameters, which were listed as issues in ROP-1 meetup
   - Reward weights
   - MIN_SLASHING_QUOTIENT
 - [Looking at withdrawals](./Looking_at_withdrawals.md)  
-I have made a consideration about [tweets about withdrawals of staked Ethereum](https://twitter.com/barnabemonnot/status/1581686737943728129).
+I made [a solution](./exit-duration.ipynb) for [an issue about withdrawals of staked Ethereum](https://twitter.com/barnabemonnot/status/1581686737943728129).
 - How the network behaves and the dynamics under censorship  
 I would like to work on [this issue](https://twitter.com/barnabemonnot/status/1561194859238531073) in the future.
