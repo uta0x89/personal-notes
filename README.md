@@ -1,4 +1,4 @@
-# Personal notes on ethereum research
+# Personal notes on Ethereum research
 
 ## Introduction
 This repository is for personal notes regarding my research on Ethereum.
